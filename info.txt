@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "All-In-One Properties Tool"
+	"version"     "1"
+	"author_name" "Colonel Thirty Two"
+	"author_url"  ""
+	"info"        "Some commonly used physical properties tool bundled together in one tool."
+	"override"    "0"
+}
