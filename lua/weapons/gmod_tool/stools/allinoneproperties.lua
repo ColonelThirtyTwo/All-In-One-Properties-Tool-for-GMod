@@ -97,7 +97,10 @@ local ValidMaterials = {
 	["zombieflesh"] = true,
 	["gmod_ice"] = true,
 	["gmod_bouncy"] = true,
-	["gmod_silent"] = true, 
+	["gmod_silent"] = true,
+	["water"] = true,
+	["jeeptire"] = true,
+	["jalopytire"] = true,
 }
 
 if CLIENT then
